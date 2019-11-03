@@ -101,7 +101,7 @@ const FiltersNavigator = createStackNavigator({
   {
     // one variant
     navigationOptions: {
-      drawerLabel: 'Filters!!!'
+      drawerLabel: 'Filters'
     },
     defaultNavigationOptions: defaultStackOptions
   });
